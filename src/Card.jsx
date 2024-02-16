@@ -13,9 +13,10 @@ export default () => (
       <h3 className="back">Happy Birthday Dad!</h3>
       <p>Dear Dad,</p>
       <p>
-        Another day to celebrate the man you are! I want you to know that you
-        are the most special person in my life. You are loved and appreciated.
-        Happy Birthday, Dad!
+        On the occasion of your birthday, I want to tell you that you are an
+        inspiration to me. I see you and I am reminded of strength and
+        resilience. Thank you for being the hero of my life. Happy Birthday,
+        Dad!
       </p>
       <p className="name">Kev</p>
     </div>
